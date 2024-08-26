@@ -1,0 +1,20 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "Coding Ninjas Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ujjawal kumar gupta (12101047)",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv2json": "^2.0.2",
+    "express": "^4.19.2",
+    "json-2-csv": "^5.5.5",
+    "json2csv": "^6.0.0-alpha.2",
+    "json2xls": "^0.1.2",
+    "mongoose": "^8.4.4"
+  }
+}
